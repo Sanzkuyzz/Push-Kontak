@@ -64,7 +64,7 @@ $ npm start
 $ apt update && apt upgrade
 $ apt install git -y
 $ apt install nodejs -y
-$ git clone https://github.com/resahdevv/Push-Kontak.git
+$ git clone https://github.com/Sanzkuyzz/Push-Kontak.git
 $ cd Push-Kontak
 $ npm install
 $ npm start
